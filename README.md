@@ -1,6 +1,6 @@
 # 🌟 My 4-Month ML Job Ready Challenge
 
-Hi there! 👋 This is my personal **4-Month ML Job Ready Challenge**. I’ve started this challenge to learn Machine Learning step by step and get ready for a job in the field. Over the next few months, I’ll be focusing on building my skills, doing hands-on projects, and creating something I can be proud of.
+Hi there! 👋 This is my **4-Month ML Job Ready Challenge**. I’ve started this challenge to learn Machine Learning step by step and get ready for a job in the field. Over the next few months, I’ll be focusing on building my skills, doing hands-on projects, and creating something I can be proud of.
 
 ## Why Am I Doing This?
 
