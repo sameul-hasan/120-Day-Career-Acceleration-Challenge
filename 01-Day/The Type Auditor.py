@@ -1,0 +1,5 @@
+Cast = input("Input a number:")
+print("You have entered:", Cast)
+print("Type of the input is:", type(Cast))
+Cast_float = float(Cast)
+print("Type after conversion is:", type(Cast_float))
