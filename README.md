@@ -45,3 +45,15 @@ This roadmap is industry-aligned and designed to cover everything I need to beco
 ## 📂 What’s in This Repo?
 
 Here’s how I’m organizing my progress. Think of this as my learning library:
+
+```
+ML_DS-journey/
+├── 01-Day/ # 
+├── 02-Day/
+├── ...
+├── projects/ # Each folder is a major project or case study
+├── notes/ # Explanations, math breakdowns, and summaries
+└── references/ # Articles, tools, books, and extra resources
+```
+
+You’ll find **daily progress updates** in the `Day-xx` folders and larger builds in `projects/`.
