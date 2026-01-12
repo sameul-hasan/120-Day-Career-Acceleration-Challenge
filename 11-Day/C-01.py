@@ -1,0 +1,1 @@
+print("Day 11: Career Acceleration Challenge - Task C-01")
